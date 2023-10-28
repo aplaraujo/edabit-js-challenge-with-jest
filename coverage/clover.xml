@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1698451360422" clover="3.2.0">
-  <project timestamp="1698451360423" name="All files">
-    <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="4" coveredelements="4" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
-    <file name="extract-city-facts.js" path="/Users/anapaulalopesaraujo/Documents/git/edabit-js-challenge-with-jest/src/strings/extract-city-facts.js">
-      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+<coverage generated="1698452419713" clover="3.2.0">
+  <project timestamp="1698452419714" name="All files">
+    <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="6" coveredelements="6" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
+    <file name="compare-strings-by-count-of-characters.js" path="/Users/anapaulalopesaraujo/Documents/git/edabit-js-challenge-with-jest/src/strings/compare-strings-by-count-of-characters.js">
+      <metrics statements="3" coveredstatements="3" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
-      <line num="2" count="8" type="stmt"/>
+      <line num="2" count="7" type="cond" truecount="2" falsecount="0"/>
       <line num="5" count="1" type="stmt"/>
     </file>
   </project>
