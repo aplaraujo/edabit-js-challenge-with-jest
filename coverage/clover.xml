@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1698586771671" clover="3.2.0">
-  <project timestamp="1698586771671" name="All files">
+<coverage generated="1698699629959" clover="3.2.0">
+  <project timestamp="1698699629959" name="All files">
     <metrics statements="6" coveredstatements="6" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1" elements="15" coveredelements="13" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
     <file name="amazing-edabit.js" path="/Users/anapaulalopesaraujo/Documents/git/edabit-js-challenge-with-jest/src/strings/amazing-edabit.js">
       <metrics statements="6" coveredstatements="6" conditionals="8" coveredconditionals="6" methods="1" coveredmethods="1"/>
