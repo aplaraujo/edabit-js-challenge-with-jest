@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1698703774331" clover="3.2.0">
-  <project timestamp="1698703774331" name="All files">
-    <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="5" coveredelements="5" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
-    <file name="calculate-using-string-operation.js" path="/Users/anapaulalopesaraujo/Documents/git/edabit-js-challenge-with-jest/src/strings/calculate-using-string-operation.js">
-      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
-      <line num="1" count="1" type="stmt"/>
-      <line num="2" count="5" type="stmt"/>
-      <line num="9" count="5" type="stmt"/>
-      <line num="12" count="1" type="stmt"/>
+<coverage generated="1698707487660" clover="3.2.0">
+  <project timestamp="1698707487660" name="All files">
+    <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="3" coveredelements="3" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
+    <file name="concatenate-first-and-last-name-into-one-string.js" path="/Users/anapaulalopesaraujo/Documents/git/edabit-js-challenge-with-jest/src/strings/concatenate-first-and-last-name-into-one-string.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="3" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
