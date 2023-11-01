@@ -1,11 +1,11 @@
 TN:
-SF:src/strings/is-the-word-singular-or-plural.js
+SF:src/strings/concatenating-first-and-last-character-of-a-string.js
 FN:1,(anonymous_0)
 FNF:1
 FNH:1
-FNDA:11,(anonymous_0)
+FNDA:6,(anonymous_0)
 DA:1,1
-DA:2,11
+DA:2,6
 DA:5,1
 LF:3
 LH:3
