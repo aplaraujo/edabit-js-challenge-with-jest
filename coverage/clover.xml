@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1698709315505" clover="3.2.0">
-  <project timestamp="1698709315505" name="All files">
-    <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="7" coveredelements="7" complexity="0" loc="6" ncloc="6" packages="1" files="1" classes="1"/>
-    <file name="word-without-first-character.js" path="/Users/anapaulalopesaraujo/Documents/git/edabit-js-challenge-with-jest/src/strings/word-without-first-character.js">
-      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+<coverage generated="1698872641412" clover="3.2.0">
+  <project timestamp="1698872641412" name="All files">
+    <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="4" coveredelements="4" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
+    <file name="convert-an-array-to-string.js" path="/Users/anapaulalopesaraujo/Documents/git/edabit-js-challenge-with-jest/src/strings/convert-an-array-to-string.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="6" type="stmt"/>
-      <line num="3" count="6" type="stmt"/>
-      <line num="4" count="6" type="stmt"/>
-      <line num="5" count="6" type="stmt"/>
-      <line num="8" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
